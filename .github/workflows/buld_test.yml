@@ -1,4 +1,4 @@
-name: Build and Test SeleniumIDE
+name: Build and Test HouseRenting
 
 on:
   push:
